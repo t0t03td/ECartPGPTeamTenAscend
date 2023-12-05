@@ -1,0 +1,1 @@
+° 2xmlXœhr<target/classes/META-INF/maven/com.wm/ECartPGPTeamTen/pom.xml

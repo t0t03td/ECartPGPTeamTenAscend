@@ -1,0 +1,1 @@
+T 2javaX,hr;src/main/java/com/wm/ECartPGPTeamTen/dao/PromotionsDao.java
